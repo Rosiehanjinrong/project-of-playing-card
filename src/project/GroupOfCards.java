@@ -32,6 +32,7 @@ public class GroupOfCards
      */
     public ArrayList<Card> showCards()
     {
+        //Guolin Zhao put a comments here
         return cards;
     }
     
