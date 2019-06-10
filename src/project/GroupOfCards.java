@@ -32,7 +32,8 @@ public class GroupOfCards
      */
     public ArrayList<Card> showCards()
     {
-        //Guolin Zhao put a comments here
+        //Guolin Zhao put a comments here. 
+        //Guolin added a comments again from GitHub
         return cards;
     }
     
